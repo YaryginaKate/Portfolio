@@ -91,4 +91,3 @@
 
 ## Контактная информация
 - Email: yarygina24@gmail.com
-- Phone: +79933772411
