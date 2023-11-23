@@ -89,5 +89,14 @@
 > <a href="https://docs.google.com/document/d/11FPUkH1sErTu9SBspPQNjEXSFZDPU360hPP_McmbBJ8/edit">Ссылка на проект</a>
 
 
+<p> :white_check_mark: Проект 6: Сравнительный анализ и создание дашборда данных двух отделов</p>
+
+:pushpin:Задача:
+    Создание визуализации итогового результата на основании предоставленных данных для сравнения эффективности показателей двух отделов.
+</ol>
+
+
+> <a href="https://drive.google.com/file/d/1i6epdsOGKibelZc8-kEWIiXBu0iWk9LX/view?usp=sharing">Ссылка на проект</a>
+
 ## Контактная информация
 - Email: yarygina24@gmail.com
